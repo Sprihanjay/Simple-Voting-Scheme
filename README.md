@@ -1,5 +1,4 @@
-
-#### Simple Voting Scheme
+#### Simple Voting Scheme (CSC 1301 Projects)
 
 A Python program that reads a file containing votes indicated by name of candidate, one per line, and counts and declares the winner (candidate with most number of votes). If there is a tie for first place, all candidates are declared the winner. Here are the contents of a possible input file and a sample run of the program:
 <pre>
