@@ -30,6 +30,7 @@ Winner:  Blue
 Winner:  Red
 
 Build your solution by implementing the following functions:
+<pre>
 # This function takes as input a list of ballots and 
 # returns a list of candidates mentioned in the ballots
 # e.g. candidates(["Red","Blue","Red","Green","Red"]) should return ["Red","Blue","Green"]
@@ -59,3 +60,4 @@ def winners(voteCounts):
 # winners and print them
 def main():
   pass
+  </pre>
