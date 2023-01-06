@@ -1,7 +1,7 @@
-# Simple-Voting-Scheme
+
 #### Simple Voting Scheme
 
-Write a Python program that reads a file containing votes indicated by name of candidate, one per line, and counts and declares the winner (candidate with most number of votes). If there is a tie for first place, all candidates are declared the winner. Here are the contents of a possible input file and a sample run of the program:
+A Python program that reads a file containing votes indicated by name of candidate, one per line, and counts and declares the winner (candidate with most number of votes). If there is a tie for first place, all candidates are declared the winner. Here are the contents of a possible input file and a sample run of the program:
 <pre>
 mirage:02-vote raj$ more vote1.dat 
 Red
